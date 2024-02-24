@@ -13,3 +13,10 @@
     border-bottom-right-radius: 40px;
 }
 /**** Banner - End */
+
+/**** Products - Start */
+.product .product-cart {
+    width: calc(25% - 24px);
+}
+
+/**** Products - End */

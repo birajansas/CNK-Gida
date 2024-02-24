@@ -14,7 +14,8 @@ module.exports = {
       colors: {
         'cnk-black': '#000000',
         'cnk-red': '#E31E24',
-        'cnk-gray': '#D5D5D5'
+        'cnk-darkred': '#C40307',
+        'cnk-gray': '#D5D5D5',
       },
     },
   },
