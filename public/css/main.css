@@ -16,7 +16,7 @@
 
 /**** Products - Start */
 .product .product-cart {
-    width: calc(25% - 24px);
+    width: 350px;
 }
 
 /**** Products - End */
